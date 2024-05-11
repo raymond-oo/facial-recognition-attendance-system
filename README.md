@@ -1,10 +1,10 @@
-# facial-recognition-system
+# Facial Recognition Attendance System
 
 This is a facial recognition attendance system designed to automate the attendance tracking process using facial recognition.
 
 ## Overview
 
-The facial recognition attendance system utilizes computer vision techniques to recognize faces in live webcam streams, allowing for the automated logging of attendance.
+The facial recognition attendance system utilizes OpenCV to recognize faces in live webcam streams, allowing for the automated logging of attendance.
 
 ## Features
 
